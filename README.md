@@ -1,35 +1,29 @@
 # vdpicml2021
 Supplementary material for submission to ICML 2021.
-This readme is divided into X sections.
-1. Understanding the output of `vdpsolve.py`
-1. Installation
 
 
-## Understanding the output of `vdpsolve.py`
 
-Lets take the example of the following puzzle:
-![clevr-sample.png](clevr-sample.png)
+## Directory Structure
 
-The solver yields the following concept for this puzzle.
 ```plaintext
-   "Exists q0: sphere!0. Exists q1: sphere!1. And(same_color!0!1 same_color!1!0)"
-```
-This concept can be interpreted as:
-```plaintext
-   "Exists x: sphere. Exists y: sphere. And(same_color(x, y), same_color(y, x))"
+.
+├── bottom_up_solver
+├── clevr-irs
+├── clevr-sample.png
+├── data
+├── README.md
+└── satbasedsolver
 ```
 
-## Installation
-Installation instructions are presented below.
-1. Clone this repository.
-    ```bash
-    $ git clone https://github.com/anonymousocean/vdpicml2021.git
-    ```
-2. Go into the project directory and install the requirements for the solver.
-    ```bash
-    $ pip install -r requirements.txt
-    ```
-3. To run the symbolic solver on a particular IR use the following command
-    ```bash
-     $ python scripts/vdpsolve.py
-    ```
+The directory consists of:
++ The main SAT-based solver in the `satbasedsolver/` subdirectory
++ The solver used for ablating the Guarded Conjunctive Fragment in `bottom_up_solver/`
++ The First-Order models corresponding to puzzles in the Natural Scenes Dataset in `data/yolo_ir`
++ First-Order models for puzzles in the Synthetic CLEVR Dataset in `data/clevr_ir`
+
+After following the installation instructions corresponding to either solver, one can call the solver(s) 
+by giving the path of any puzzle folder in `data/yolo_ir` or `data/clevr_ir`. Each puzzle folder has a `train` and 
+`test` subdirectory containing the FO models corresponding to the training and candidatate images (respectively) in JSON format.
+
+The datasets and the results of our tool can be browsed at: [https://anonymousocean.github.io/](https://anonymousocean.github.io/)
+
