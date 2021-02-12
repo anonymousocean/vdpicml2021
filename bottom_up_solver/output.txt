@@ -1,0 +1,1281 @@
+Solving a suite of puzzles in ../tmp/yolo_ir/
+
+=== Solving 2on1_1 ===
+=== NO SEPARATOR ===
+CPU time: 9.655 sec
+
+=== Solving 2on1_10 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/2on1_10/test/3.json with Separator: [Exists x1. (Forall x0. ((cat(x0)) \/ (right(x1, x0))))]
+CPU time: 2.941 sec
+
+=== Solving 2on1_11 ===
+=== NO SEPARATOR ===
+CPU time: 9.857 sec
+
+=== Solving 2on1_12 ===
+=== NO SEPARATOR ===
+CPU time: 10.933 sec
+
+=== Solving 2on1_13 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/2on1_13/test/3.json with Separator: [Exists x1. (Forall x0. ((cat(x0)) \/ (right(x1, x0))))]
+CPU time: 3.605 sec
+
+=== Solving 2on1_14 ===
+=== NO SEPARATOR ===
+CPU time: 10.513 sec
+
+=== Solving 2on1_15 ===
+=== NO SEPARATOR ===
+CPU time: 10.633 sec
+
+=== Solving 2on1_16 ===
+=== NO SEPARATOR ===
+CPU time: 10.636 sec
+
+=== Solving 2on1_17 ===
+=== NO SEPARATOR ===
+CPU time: 10.226 sec
+
+=== Solving 2on1_18 ===
+=== NO SEPARATOR ===
+CPU time: 10.147 sec
+
+=== Solving 2on1_19 ===
+=== NO SEPARATOR ===
+CPU time: 10.280 sec
+
+=== Solving 2on1_2 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/2on1_2/test/3.json with Separator: [Exists x1. (Forall x0. ((cat(x0)) \/ (right(x1, x0))))]
+CPU time: 3.561 sec
+
+=== Solving 2on1_20 ===
+=== NO SEPARATOR ===
+CPU time: 10.492 sec
+
+=== Solving 2on1_3 ===
+=== NO SEPARATOR ===
+CPU time: 10.264 sec
+
+=== Solving 2on1_4 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/2on1_4/test/3.json with Separator: [Exists x1. (Forall x0. ((cat(x0)) \/ (right(x1, x0))))]
+CPU time: 3.497 sec
+
+=== Solving 2on1_5 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/2on1_5/test/3.json with Separator: [Exists x1. (Forall x0. ((cat(x0)) \/ (right(x1, x0))))]
+CPU time: 3.366 sec
+
+=== Solving 2on1_6 ===
+=== NO SEPARATOR ===
+CPU time: 10.530 sec
+
+=== Solving 2on1_7 ===
+=== NO SEPARATOR ===
+CPU time: 10.391 sec
+
+=== Solving 2on1_8 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/2on1_8/test/3.json with Separator: [Exists x1. (Forall x0. ((cat(x0)) \/ (right(x1, x0))))]
+CPU time: 3.361 sec
+
+=== Solving 2on1_9 ===
+=== NO SEPARATOR ===
+CPU time: 10.694 sec
+
+=== Solving allcatsonsofas_1 ===
+TIMEOUT: 060 sec
+
+=== Solving allcatsonsofas_10 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/allcatsonsofas_10/test/21.json with Separator: [Forall x1. (Exists x0. ((right(x1, x0)) \/ (within(x1, x0))))]
+CPU time: 5.475 sec
+
+=== Solving allcatsonsofas_11 ===
+TIMEOUT: 060 sec
+
+=== Solving allcatsonsofas_12 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/allcatsonsofas_12/test/21.json with Separator: [Exists x1. (Forall x0. ((within(x0, x1)) \/ (not(cat(x0)))))]
+CPU time: 5.650 sec
+
+=== Solving allcatsonsofas_13 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/allcatsonsofas_13/test/21.json with Separator: [Forall x1. (Exists x0. ((right(x1, x0)) \/ (within(x1, x0))))]
+CPU time: 5.826 sec
+
+=== Solving allcatsonsofas_14 ===
+TIMEOUT: 060 sec
+
+=== Solving allcatsonsofas_15 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/allcatsonsofas_15/test/18.json with Separator: [Forall x1. (Forall x0. ((sofa(x1)) \/ (not(within(x0, x1)))))]
+CPU time: 20.888 sec
+
+=== Solving allcatsonsofas_16 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/allcatsonsofas_16/test/18.json with Separator: [Exists x1. (Forall x0. ((right(x0, x1)) \/ (sofa(x1))))]
+CPU time: 0.600 sec
+
+=== Solving allcatsonsofas_17 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/allcatsonsofas_17/test/18.json with Separator: [Forall x1. (Forall x0. ((sofa(x1)) \/ (not(within(x0, x1)))))]
+CPU time: 20.474 sec
+
+=== Solving allcatsonsofas_18 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/allcatsonsofas_18/test/25.json with Separator: [Forall x1. (Exists x0. ((right(x1, x0)) \/ (within(x1, x0))))]
+CPU time: 5.321 sec
+
+=== Solving allcatsonsofas_19 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/allcatsonsofas_19/test/19.json with Separator: [Forall x1. (Exists x0. ((right(x1, x0)) \/ (within(x1, x0))))]
+CPU time: 5.362 sec
+
+=== Solving allcatsonsofas_2 ===
+TIMEOUT: 060 sec
+
+=== Solving allcatsonsofas_20 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/allcatsonsofas_20/test/25.json with Separator: [Forall x1. (Exists x0. ((right(x1, x0)) \/ (within(x1, x0))))]
+CPU time: 7.409 sec
+
+=== Solving allcatsonsofas_3 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/allcatsonsofas_3/test/18.json with Separator: [Exists x1. (Exists x0. ((sofa(x1)) /\ (within(x0, x1))))]
+CPU time: 1.977 sec
+
+=== Solving allcatsonsofas_4 ===
+TIMEOUT: 060 sec
+
+=== Solving allcatsonsofas_5 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/allcatsonsofas_5/test/25.json with Separator: [Exists x1. (Forall x0. ((sofa(x0)) \/ (within(x0, x1))))]
+CPU time: 5.197 sec
+
+=== Solving allcatsonsofas_6 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/allcatsonsofas_6/test/19.json with Separator: [Exists x1. (Forall x0. ((within(x0, x1)) \/ (not(cat(x0)))))]
+CPU time: 5.080 sec
+
+=== Solving allcatsonsofas_7 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/allcatsonsofas_7/test/21.json with Separator: [Exists x1. (Forall x0. ((sofa(x0)) \/ (within(x0, x1))))]
+CPU time: 5.167 sec
+
+=== Solving allcatsonsofas_8 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/allcatsonsofas_8/test/18.json with Separator: [Forall x1. (Exists x0. ((not(chair(x1))) /\ (not(sofa(x0)))))]
+CPU time: 1.954 sec
+
+=== Solving allcatsonsofas_9 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/allcatsonsofas_9/test/18.json with Separator: [Exists x1. (Exists x0. ((cell phone(x0)) \/ (sofa(x1))))]
+CPU time: 0.492 sec
+
+=== Solving alldogsonsofas_1 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/alldogsonsofas_1/test/30.json with Separator: [Forall x1. (Forall x0. ((not(bowl(x0))) /\ (not(vase(x1)))))]
+CPU time: 58.249 sec
+
+=== Solving alldogsonsofas_10 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/alldogsonsofas_10/test/32.json with Separator: [Exists x1. (Forall x0. ((within(x0, x1)) \/ (not(dog(x0)))))]
+CPU time: 84.257 sec
+
+=== Solving alldogsonsofas_11 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/alldogsonsofas_11/test/33.json with Separator: [Forall x1. (Exists x0. ((within(x1, x0)) \/ (not(dog(x1)))))]
+CPU time: 25.450 sec
+
+=== Solving alldogsonsofas_12 ===
+TIMEOUT: 060 sec
+
+=== Solving alldogsonsofas_13 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/alldogsonsofas_13/test/30.json with Separator: [Forall x1. (Forall x0. ((not(bowl(x0))) /\ (not(vase(x1)))))]
+CPU time: 51.507 sec
+
+=== Solving alldogsonsofas_14 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/alldogsonsofas_14/test/33.json with Separator: [Forall x1. (Exists x0. ((within(x1, x0)) \/ (not(dog(x1)))))]
+CPU time: 21.782 sec
+
+=== Solving alldogsonsofas_15 ===
+TIMEOUT: 060 sec
+
+=== Solving alldogsonsofas_16 ===
+TIMEOUT: 060 sec
+
+=== Solving alldogsonsofas_17 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/alldogsonsofas_17/test/33.json with Separator: [Exists x1. (Forall x0. ((within(x0, x1)) \/ (not(dog(x0)))))]
+CPU time: 51.722 sec
+
+=== Solving alldogsonsofas_18 ===
+TIMEOUT: 060 sec
+
+=== Solving alldogsonsofas_19 ===
+TIMEOUT: 060 sec
+
+=== Solving alldogsonsofas_2 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/alldogsonsofas_2/test/32.json with Separator: [Forall x1. (Exists x0. ((within(x1, x0)) \/ (not(dog(x1)))))]
+CPU time: 83.491 sec
+
+=== Solving alldogsonsofas_20 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/alldogsonsofas_20/test/33.json with Separator: [Forall x1. (Exists x0. ((within(x1, x0)) \/ (not(dog(x1)))))]
+CPU time: 61.071 sec
+
+=== Solving alldogsonsofas_3 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/alldogsonsofas_3/test/30.json with Separator: [Exists x1. (Forall x0. ((within(x1, x0)) \/ (not(sofa(x0)))))]
+CPU time: 51.833 sec
+
+=== Solving alldogsonsofas_4 ===
+TIMEOUT: 060 sec
+
+=== Solving alldogsonsofas_5 ===
+TIMEOUT: 060 sec
+
+=== Solving alldogsonsofas_6 ===
+TIMEOUT: 060 sec
+
+=== Solving alldogsonsofas_7 ===
+TIMEOUT: 060 sec
+
+=== Solving alldogsonsofas_8 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/alldogsonsofas_8/test/31.json with Separator: [Exists x1. (Exists x0. ((within(x0, x1)) /\ (not(dog(x0)))))]
+CPU time: 44.460 sec
+
+=== Solving alldogsonsofas_9 ===
+TIMEOUT: 060 sec
+
+=== Solving catontv_1 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/catontv_1/test/41.json with Separator: [Forall x1. (Forall x0. ((right(x1, x0)) \/ (not(within(x1, x0)))))]
+CPU time: 0.793 sec
+
+=== Solving catontv_10 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/catontv_10/test/50.json with Separator: [Exists x1. (Forall x0. ((dog(x1)) \/ (tvmonitor(x0))))]
+CPU time: 0.695 sec
+
+=== Solving catontv_11 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/catontv_11/test/41.json with Separator: [Exists x1. (Exists x0. ((dog(x0)) \/ (person(x1))))]
+CPU time: 1.705 sec
+
+=== Solving catontv_12 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/catontv_12/test/41.json with Separator: [Forall x1. (Forall x0. ((right(x1, x0)) \/ (not(within(x1, x0)))))]
+CPU time: 0.934 sec
+
+=== Solving catontv_13 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/catontv_13/test/44.json with Separator: [Exists x1. (Forall x0. ((not(right(x1, x0))) /\ (not(within(x0, x1)))))]
+CPU time: 2.648 sec
+
+=== Solving catontv_14 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/catontv_14/test/44.json with Separator: [Forall x1. (Forall x0. ((not(book(x1))) /\ (not(person(x0)))))]
+CPU time: 4.806 sec
+
+=== Solving catontv_15 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/catontv_15/test/42.json with Separator: [Exists x1. (Exists x0. ((cat(x1)) \/ (teddy bear(x0))))]
+CPU time: 2.339 sec
+
+=== Solving catontv_16 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/catontv_16/test/43.json with Separator: [Forall x1. (Forall x0. ((cat(x1)) \/ (not(within(x1, x0)))))]
+CPU time: 0.786 sec
+
+=== Solving catontv_17 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/catontv_17/test/46.json with Separator: [Forall x1. (Forall x0. ((not(book(x0))) /\ (not(keyboard(x1)))))]
+CPU time: 3.639 sec
+
+=== Solving catontv_18 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/catontv_18/test/46.json with Separator: [Exists x1. (Exists x0. ((dog(x0)) \/ (person(x1))))]
+CPU time: 1.716 sec
+
+=== Solving catontv_19 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/catontv_19/test/46.json with Separator: [Exists x1. (Forall x0. ((within(x1, x0)) \/ (not(tvmonitor(x0)))))]
+CPU time: 0.680 sec
+
+=== Solving catontv_2 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/catontv_2/test/43.json with Separator: [Exists x1. (Forall x0. ((dog(x1)) \/ (tvmonitor(x0))))]
+CPU time: 0.759 sec
+
+=== Solving catontv_20 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/catontv_20/test/42.json with Separator: [Forall x1. (Forall x0. ((not(right(x0, x1))) \/ (not(within(x0, x1)))))]
+CPU time: 1.480 sec
+
+=== Solving catontv_3 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/catontv_3/test/42.json with Separator: [Forall x1. (Forall x0. ((not(right(x0, x1))) \/ (not(tvmonitor(x0)))))]
+CPU time: 2.358 sec
+
+=== Solving catontv_4 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/catontv_4/test/44.json with Separator: [Exists x1. (Forall x0. ((within(x1, x0)) \/ (not(tvmonitor(x0)))))]
+CPU time: 1.325 sec
+
+=== Solving catontv_5 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/catontv_5/test/41.json with Separator: [Exists x1. (Forall x0. ((within(x1, x0)) \/ (not(tvmonitor(x0)))))]
+CPU time: 0.720 sec
+
+=== Solving catontv_6 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/catontv_6/test/49.json with Separator: [Exists x1. (Forall x0. ((dog(x1)) \/ (tvmonitor(x0))))]
+CPU time: 0.765 sec
+
+=== Solving catontv_7 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/catontv_7/test/46.json with Separator: [Forall x1. (Forall x0. ((not(book(x1))) /\ (not(remote(x0)))))]
+CPU time: 3.481 sec
+
+=== Solving catontv_8 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/catontv_8/test/49.json with Separator: [Exists x1. (Forall x0. ((dog(x1)) \/ (tvmonitor(x0))))]
+CPU time: 0.647 sec
+
+=== Solving catontv_9 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/catontv_9/test/42.json with Separator: [Forall x1. (Forall x0. ((right(x0, x1)) \/ (not(within(x1, x0)))))]
+CPU time: 1.570 sec
+
+=== Solving desktop_1 ===
+TIMEOUT: 060 sec
+
+=== Solving desktop_10 ===
+TIMEOUT: 060 sec
+
+=== Solving desktop_11 ===
+TIMEOUT: 060 sec
+
+=== Solving desktop_12 ===
+TIMEOUT: 060 sec
+
+=== Solving desktop_13 ===
+TIMEOUT: 060 sec
+
+=== Solving desktop_14 ===
+TIMEOUT: 060 sec
+
+=== Solving desktop_15 ===
+TIMEOUT: 060 sec
+
+=== Solving desktop_16 ===
+TIMEOUT: 060 sec
+
+=== Solving desktop_17 ===
+TIMEOUT: 060 sec
+
+=== Solving desktop_18 ===
+TIMEOUT: 060 sec
+
+=== Solving desktop_19 ===
+TIMEOUT: 060 sec
+
+=== Solving desktop_2 ===
+TIMEOUT: 060 sec
+
+=== Solving desktop_20 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/desktop_20/test/56.json with Separator: [Forall x1. (Forall x0. ((left(x1, x0)) \/ (not(within(x1, x0)))))]
+CPU time: 32.517 sec
+
+=== Solving desktop_3 ===
+TIMEOUT: 060 sec
+
+=== Solving desktop_4 ===
+TIMEOUT: 060 sec
+
+=== Solving desktop_5 ===
+TIMEOUT: 060 sec
+
+=== Solving desktop_6 ===
+TIMEOUT: 060 sec
+
+=== Solving desktop_7 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/desktop_7/test/60.json with Separator: [Forall x1. (Forall x0. ((not(sofa(x1))) /\ (not(within(x1, x0)))))]
+CPU time: 66.117 sec
+
+=== Solving desktop_8 ===
+TIMEOUT: 060 sec
+
+=== Solving desktop_9 ===
+TIMEOUT: 060 sec
+
+=== Solving dogherded_1 ===
+TIMEOUT: 060 sec
+
+=== Solving dogherded_10 ===
+TIMEOUT: 060 sec
+
+=== Solving dogherded_11 ===
+TIMEOUT: 060 sec
+
+=== Solving dogherded_12 ===
+TIMEOUT: 060 sec
+
+=== Solving dogherded_13 ===
+TIMEOUT: 060 sec
+
+=== Solving dogherded_14 ===
+TIMEOUT: 060 sec
+
+=== Solving dogherded_15 ===
+TIMEOUT: 060 sec
+
+=== Solving dogherded_16 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/dogherded_16/test/80.json with Separator: [Exists x1. (Forall x0. ((truck(x1)) \/ (not(person(x0)))))]
+CPU time: 54.522 sec
+
+=== Solving dogherded_17 ===
+TIMEOUT: 060 sec
+
+=== Solving dogherded_18 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/dogherded_18/test/77.json with Separator: [Exists x1. (Exists x0. ((car(x0)) \/ (person(x1))))]
+CPU time: 41.833 sec
+
+=== Solving dogherded_19 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/dogherded_19/test/81.json with Separator: [Exists x1. (Exists x0. ((car(x0)) \/ (person(x1))))]
+CPU time: 42.899 sec
+
+=== Solving dogherded_2 ===
+TIMEOUT: 060 sec
+
+=== Solving dogherded_20 ===
+TIMEOUT: 060 sec
+
+=== Solving dogherded_3 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/dogherded_3/test/82.json with Separator: [Forall x1. (Exists x0. ((right(x1, x0)) \/ (not(sheep(x1)))))]
+CPU time: 52.593 sec
+
+=== Solving dogherded_4 ===
+TIMEOUT: 060 sec
+
+=== Solving dogherded_5 ===
+TIMEOUT: 060 sec
+
+=== Solving dogherded_6 ===
+TIMEOUT: 060 sec
+
+=== Solving dogherded_7 ===
+TIMEOUT: 060 sec
+
+=== Solving dogherded_8 ===
+TIMEOUT: 060 sec
+
+=== Solving dogherded_9 ===
+TIMEOUT: 060 sec
+
+=== Solving drivingdirection_1 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/drivingdirection_1/test/220.json with Separator: [Forall x1. (Exists x0. ((right(x1, x0)) \/ (truck(x0))))]
+CPU time: 10.054 sec
+
+=== Solving drivingdirection_10 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/drivingdirection_10/test/219.json with Separator: [Forall x1. (Exists x0. ((right(x1, x0)) \/ (truck(x0))))]
+CPU time: 8.686 sec
+
+=== Solving drivingdirection_11 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/drivingdirection_11/test/218.json with Separator: [Exists x1. (Forall x0. ((right(x1, x0)) \/ (truck(x1))))]
+CPU time: 40.785 sec
+
+=== Solving drivingdirection_12 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/drivingdirection_12/test/219.json with Separator: [Forall x1. (Exists x0. ((truck(x0)) \/ (not(person(x1)))))]
+CPU time: 44.353 sec
+
+=== Solving drivingdirection_13 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/drivingdirection_13/test/220.json with Separator: [Forall x1. (Exists x0. ((truck(x0)) \/ (not(person(x1)))))]
+CPU time: 11.555 sec
+
+=== Solving drivingdirection_14 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/drivingdirection_14/test/225.json with Separator: [Forall x1. (Forall x0. ((not(pottedplant(x0))) /\ (not(umbrella(x1)))))]
+CPU time: 28.912 sec
+
+=== Solving drivingdirection_15 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/drivingdirection_15/test/225.json with Separator: [Forall x1. (Forall x0. ((not(clock(x1))) /\ (not(pottedplant(x0)))))]
+CPU time: 28.109 sec
+
+=== Solving drivingdirection_16 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/drivingdirection_16/test/221.json with Separator: [Forall x1. (Exists x0. ((left(x0, x1)) \/ (not(car(x1)))))]
+CPU time: 8.921 sec
+
+=== Solving drivingdirection_17 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/drivingdirection_17/test/224.json with Separator: [Exists x1. (Exists x0. ((within(x0, x1)) \/ (within(x1, x0))))]
+CPU time: 32.363 sec
+
+=== Solving drivingdirection_18 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/drivingdirection_18/test/224.json with Separator: [Forall x1. (Forall x0. ((not(clock(x1))) /\ (not(pottedplant(x0)))))]
+CPU time: 32.132 sec
+
+=== Solving drivingdirection_19 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/drivingdirection_19/test/221.json with Separator: [Exists x1. (Forall x0. ((car(x0)) \/ (truck(x1))))]
+CPU time: 9.299 sec
+
+=== Solving drivingdirection_2 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/drivingdirection_2/test/219.json with Separator: [Forall x1. (Exists x0. ((truck(x0)) \/ (not(person(x1)))))]
+CPU time: 7.212 sec
+
+=== Solving drivingdirection_20 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/drivingdirection_20/test/222.json with Separator: [Forall x1. (Forall x0. ((not(backpack(x0))) /\ (not(umbrella(x1)))))]
+CPU time: 35.128 sec
+
+=== Solving drivingdirection_3 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/drivingdirection_3/test/222.json with Separator: [Exists x1. (Exists x0. ((handbag(x1)) \/ (within(x1, x0))))]
+CPU time: 37.926 sec
+
+=== Solving drivingdirection_4 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/drivingdirection_4/test/224.json with Separator: [Forall x1. (Forall x0. ((not(pottedplant(x0))) /\ (not(umbrella(x1)))))]
+CPU time: 26.707 sec
+
+=== Solving drivingdirection_5 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/drivingdirection_5/test/224.json with Separator: [Exists x1. (Exists x0. ((backpack(x1)) \/ (handbag(x0))))]
+CPU time: 10.920 sec
+
+=== Solving drivingdirection_6 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/drivingdirection_6/test/219.json with Separator: [Forall x1. (Exists x0. ((right(x1, x0)) \/ (truck(x0))))]
+CPU time: 9.252 sec
+
+=== Solving drivingdirection_7 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/drivingdirection_7/test/220.json with Separator: [Forall x1. (Exists x0. ((truck(x0)) \/ (not(car(x1)))))]
+CPU time: 6.666 sec
+
+=== Solving drivingdirection_8 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/drivingdirection_8/test/219.json with Separator: [Forall x1. (Exists x0. ((right(x1, x0)) \/ (truck(x0))))]
+CPU time: 9.211 sec
+
+=== Solving drivingdirection_9 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/drivingdirection_9/test/221.json with Separator: [Forall x1. (Exists x0. ((left(x0, x1)) \/ (not(car(x1)))))]
+CPU time: 9.587 sec
+
+=== Solving kitchen_1 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/kitchen_1/test/95.json with Separator: [Exists x1. (Exists x0. ((cup(x1)) \/ (within(x1, x0))))]
+CPU time: 21.492 sec
+
+=== Solving kitchen_10 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/kitchen_10/test/92.json with Separator: [Forall x1. (Forall x0. ((not(book(x1))) /\ (not(toilet(x0)))))]
+CPU time: 29.148 sec
+
+=== Solving kitchen_11 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/kitchen_11/test/93.json with Separator: [Forall x1. (Exists x0. ((not(chair(x1))) /\ (not(cup(x0)))))]
+CPU time: 50.583 sec
+
+=== Solving kitchen_12 ===
+TIMEOUT: 060 sec
+
+=== Solving kitchen_13 ===
+TIMEOUT: 060 sec
+
+=== Solving kitchen_14 ===
+TIMEOUT: 060 sec
+
+=== Solving kitchen_15 ===
+TIMEOUT: 060 sec
+
+=== Solving kitchen_16 ===
+TIMEOUT: 060 sec
+
+=== Solving kitchen_17 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/kitchen_17/test/92.json with Separator: [Exists x1. (Exists x0. ((banana(x0)) \/ (oven(x1))))]
+CPU time: 16.755 sec
+
+=== Solving kitchen_18 ===
+TIMEOUT: 060 sec
+
+=== Solving kitchen_19 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/kitchen_19/test/93.json with Separator: [Forall x1. (Forall x0. ((not(cup(x1))) \/ (not(refrigerator(x0)))))]
+CPU time: 16.166 sec
+
+=== Solving kitchen_2 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/kitchen_2/test/90.json with Separator: [Exists x1. (Exists x0. ((oven(x1)) \/ (toilet(x0))))]
+CPU time: 20.075 sec
+
+=== Solving kitchen_20 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/kitchen_20/test/95.json with Separator: [Exists x1. (Exists x0. ((bowl(x1)) \/ (within(x1, x0))))]
+CPU time: 20.253 sec
+
+=== Solving kitchen_3 ===
+TIMEOUT: 060 sec
+
+=== Solving kitchen_4 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/kitchen_4/test/90.json with Separator: [Exists x1. (Forall x0. ((not(chair(x0))) /\ (not(right(x1, x0)))))]
+CPU time: 61.662 sec
+
+=== Solving kitchen_5 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/kitchen_5/test/91.json with Separator: [Forall x1. (Exists x0. ((oven(x0)) \/ (not(cup(x1)))))]
+CPU time: 14.232 sec
+
+=== Solving kitchen_6 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/kitchen_6/test/92.json with Separator: [Exists x1. (Forall x0. ((oven(x1)) \/ (right(x1, x0))))]
+CPU time: 16.840 sec
+
+=== Solving kitchen_7 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/kitchen_7/test/90.json with Separator: [Exists x1. (Exists x0. ((oven(x1)) \/ (toilet(x0))))]
+CPU time: 15.726 sec
+
+=== Solving kitchen_8 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/kitchen_8/test/90.json with Separator: [Forall x1. (Exists x0. ((left(x1, x0)) \/ (not(cup(x1)))))]
+CPU time: 15.885 sec
+
+=== Solving kitchen_9 ===
+TIMEOUT: 060 sec
+
+=== Solving parkmeter_1 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/parkmeter_1/test/106.json with Separator: [Exists x1. (Forall x0. ((bus(x1)) \/ (not(truck(x0)))))]
+CPU time: 48.925 sec
+
+=== Solving parkmeter_10 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/parkmeter_10/test/106.json with Separator: [Exists x1. (Forall x0. ((bus(x1)) \/ (not(truck(x0)))))]
+CPU time: 48.173 sec
+
+=== Solving parkmeter_11 ===
+TIMEOUT: 060 sec
+
+=== Solving parkmeter_12 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/parkmeter_12/test/106.json with Separator: [Exists x1. (Forall x0. ((bus(x1)) \/ (not(truck(x0)))))]
+CPU time: 6.155 sec
+
+=== Solving parkmeter_13 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/parkmeter_13/test/105.json with Separator: [Forall x1. (Exists x0. ((left(x1, x0)) \/ (parking meter(x0))))]
+CPU time: 62.549 sec
+
+=== Solving parkmeter_14 ===
+TIMEOUT: 060 sec
+
+=== Solving parkmeter_15 ===
+TIMEOUT: 060 sec
+
+=== Solving parkmeter_16 ===
+TIMEOUT: 060 sec
+
+=== Solving parkmeter_17 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/parkmeter_17/test/106.json with Separator: [Exists x1. (Forall x0. ((bus(x1)) \/ (not(truck(x0)))))]
+CPU time: 43.101 sec
+
+=== Solving parkmeter_18 ===
+TIMEOUT: 060 sec
+
+=== Solving parkmeter_19 ===
+TIMEOUT: 060 sec
+
+=== Solving parkmeter_2 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/parkmeter_2/test/106.json with Separator: [Exists x1. (Forall x0. ((bus(x1)) \/ (not(truck(x0)))))]
+CPU time: 46.261 sec
+
+=== Solving parkmeter_20 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/parkmeter_20/test/104.json with Separator: [Exists x1. (Forall x0. ((left(x1, x0)) \/ (parking meter(x1))))]
+CPU time: 46.951 sec
+
+=== Solving parkmeter_3 ===
+TIMEOUT: 060 sec
+
+=== Solving parkmeter_4 ===
+TIMEOUT: 060 sec
+
+=== Solving parkmeter_5 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/parkmeter_5/test/104.json with Separator: [Forall x1. (Exists x0. ((parking meter(x0)) \/ (not(truck(x1)))))]
+CPU time: 44.849 sec
+
+=== Solving parkmeter_6 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/parkmeter_6/test/108.json with Separator: [Forall x1. (Exists x0. ((left(x1, x0)) \/ (parking meter(x0))))]
+CPU time: 67.523 sec
+
+=== Solving parkmeter_7 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/parkmeter_7/test/106.json with Separator: [Exists x1. (Forall x0. ((bus(x1)) \/ (not(truck(x0)))))]
+CPU time: 5.473 sec
+
+=== Solving parkmeter_8 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/parkmeter_8/test/104.json with Separator: [Forall x1. (Exists x0. ((left(x1, x0)) \/ (parking meter(x0))))]
+CPU time: 27.240 sec
+
+=== Solving parkmeter_9 ===
+TIMEOUT: 060 sec
+
+=== Solving personball_1 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/personball_1/test/117.json with Separator: [Exists x1. (Exists x0. ((bottle(x0)) \/ (within(x0, x1))))]
+CPU time: 16.865 sec
+
+=== Solving personball_10 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/personball_10/test/117.json with Separator: [Forall x1. (Forall x0. ((not(chair(x0))) /\ (not(dog(x1)))))]
+CPU time: 74.033 sec
+
+=== Solving personball_11 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/personball_11/test/114.json with Separator: [Exists x1. (Exists x0. ((diningtable(x0)) \/ (within(x1, x0))))]
+CPU time: 10.736 sec
+
+=== Solving personball_12 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/personball_12/test/114.json with Separator: [Forall x1. (Forall x0. ((not(chair(x0))) /\ (not(dog(x1)))))]
+CPU time: 70.149 sec
+
+=== Solving personball_13 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/personball_13/test/121.json with Separator: [Forall x1. (Forall x0. ((not(cup(x0))) /\ (not(elephant(x1)))))]
+CPU time: 68.447 sec
+
+=== Solving personball_14 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/personball_14/test/117.json with Separator: [Exists x1. (Exists x0. ((bottle(x0)) \/ (within(x1, x0))))]
+CPU time: 11.971 sec
+
+=== Solving personball_15 ===
+TIMEOUT: 060 sec
+
+=== Solving personball_16 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/personball_16/test/117.json with Separator: [Forall x1. (Forall x0. ((not(bench(x0))) /\ (not(dog(x1)))))]
+CPU time: 70.646 sec
+
+=== Solving personball_17 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/personball_17/test/116.json with Separator: [Forall x1. (Forall x0. ((not(cup(x1))) /\ (not(elephant(x0)))))]
+CPU time: 44.935 sec
+
+=== Solving personball_18 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/personball_18/test/118.json with Separator: [Forall x1. (Forall x0. ((not(bench(x0))) /\ (not(bottle(x1)))))]
+CPU time: 78.167 sec
+
+=== Solving personball_19 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/personball_19/test/119.json with Separator: [Forall x1. (Forall x0. ((person(x1)) \/ (not(within(x0, x1)))))]
+CPU time: 34.767 sec
+
+=== Solving personball_2 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/personball_2/test/115.json with Separator: [Forall x1. (Forall x0. ((not(diningtable(x0))) /\ (not(dog(x1)))))]
+CPU time: 69.578 sec
+
+=== Solving personball_20 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/personball_20/test/114.json with Separator: [Forall x1. (Forall x0. ((not(bench(x0))) /\ (not(elephant(x1)))))]
+CPU time: 78.680 sec
+
+=== Solving personball_3 ===
+TIMEOUT: 060 sec
+
+=== Solving personball_4 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/personball_4/test/116.json with Separator: [Forall x1. (Forall x0. ((not(diningtable(x0))) /\ (not(dog(x1)))))]
+CPU time: 41.837 sec
+
+=== Solving personball_5 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/personball_5/test/119.json with Separator: [Forall x1. (Forall x0. ((not(bench(x1))) /\ (not(cup(x0)))))]
+CPU time: 76.056 sec
+
+=== Solving personball_6 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/personball_6/test/114.json with Separator: [Forall x1. (Forall x0. ((not(bench(x0))) /\ (not(dog(x1)))))]
+CPU time: 71.899 sec
+
+=== Solving personball_7 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/personball_7/test/118.json with Separator: [Forall x1. (Forall x0. ((not(bowl(x1))) /\ (not(chair(x0)))))]
+CPU time: 71.891 sec
+
+=== Solving personball_8 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/personball_8/test/114.json with Separator: [Exists x1. (Exists x0. ((bottle(x0)) \/ (within(x0, x1))))]
+CPU time: 14.671 sec
+
+=== Solving personball_9 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/personball_9/test/114.json with Separator: [Forall x1. (Forall x0. ((not(chair(x0))) /\ (not(dog(x1)))))]
+CPU time: 76.573 sec
+
+=== Solving populatedbus_1 ===
+TIMEOUT: 060 sec
+
+=== Solving populatedbus_10 ===
+TIMEOUT: 060 sec
+
+=== Solving populatedbus_11 ===
+TIMEOUT: 060 sec
+
+=== Solving populatedbus_12 ===
+TIMEOUT: 060 sec
+
+=== Solving populatedbus_13 ===
+TIMEOUT: 060 sec
+
+=== Solving populatedbus_14 ===
+TIMEOUT: 060 sec
+
+=== Solving populatedbus_15 ===
+TIMEOUT: 060 sec
+
+=== Solving populatedbus_16 ===
+TIMEOUT: 060 sec
+
+=== Solving populatedbus_17 ===
+TIMEOUT: 060 sec
+
+=== Solving populatedbus_18 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/populatedbus_18/test/130.json with Separator: [Exists x1. (Exists x0. ((bus(x1)) /\ (right(x1, x0))))]
+CPU time: 81.396 sec
+
+=== Solving populatedbus_19 ===
+TIMEOUT: 060 sec
+
+=== Solving populatedbus_2 ===
+TIMEOUT: 060 sec
+
+=== Solving populatedbus_20 ===
+TIMEOUT: 060 sec
+
+=== Solving populatedbus_3 ===
+TIMEOUT: 060 sec
+
+=== Solving populatedbus_4 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/populatedbus_4/test/130.json with Separator: [Exists x1. (Exists x0. ((not(bus(x1))) /\ (not(within(x1, x0)))))]
+CPU time: 72.406 sec
+
+=== Solving populatedbus_5 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/populatedbus_5/test/130.json with Separator: [Exists x1. (Forall x0. ((backpack(x1)) \/ (not(car(x0)))))]
+CPU time: 36.312 sec
+
+=== Solving populatedbus_6 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/populatedbus_6/test/130.json with Separator: [Exists x1. (Forall x0. ((backpack(x1)) \/ (not(car(x0)))))]
+CPU time: 40.092 sec
+
+=== Solving populatedbus_7 ===
+TIMEOUT: 060 sec
+
+=== Solving populatedbus_8 ===
+TIMEOUT: 060 sec
+
+=== Solving populatedbus_9 ===
+TIMEOUT: 060 sec
+
+=== Solving pplandties_1 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplandties_1/test/139.json with Separator: [Exists x1. (Forall x0. ((right(x1, x0)) \/ (tie(x1))))]
+CPU time: 2.900 sec
+
+=== Solving pplandties_10 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplandties_10/test/145.json with Separator: [Forall x1. (Exists x0. ((tie(x0)) \/ (within(x1, x0))))]
+CPU time: 1.696 sec
+
+=== Solving pplandties_11 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplandties_11/test/139.json with Separator: [Forall x1. (Exists x0. ((right(x0, x1)) \/ (tie(x0))))]
+CPU time: 24.360 sec
+
+=== Solving pplandties_12 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplandties_12/test/140.json with Separator: [Exists x1. (Forall x0. ((tie(x1)) \/ (within(x0, x1))))]
+CPU time: 1.664 sec
+
+=== Solving pplandties_13 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplandties_13/test/139.json with Separator: [Exists x1. (Forall x0. ((right(x1, x0)) \/ (tie(x1))))]
+CPU time: 1.861 sec
+
+=== Solving pplandties_14 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplandties_14/test/140.json with Separator: [Exists x1. (Forall x0. ((right(x1, x0)) \/ (tie(x1))))]
+CPU time: 2.376 sec
+
+=== Solving pplandties_15 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplandties_15/test/137.json with Separator: [Exists x1. (Exists x0. ((bottle(x0)) \/ (within(x0, x1))))]
+CPU time: 12.031 sec
+
+=== Solving pplandties_16 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplandties_16/test/142.json with Separator: [Exists x1. (Exists x0. ((bottle(x0)) \/ (within(x0, x1))))]
+CPU time: 7.245 sec
+
+=== Solving pplandties_17 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplandties_17/test/140.json with Separator: [Forall x1. (Exists x0. ((person(x1)) \/ (right(x1, x0))))]
+CPU time: 1.776 sec
+
+=== Solving pplandties_18 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplandties_18/test/143.json with Separator: [Exists x1. (Exists x0. ((within(x0, x1)) \/ (within(x1, x0))))]
+CPU time: 5.838 sec
+
+=== Solving pplandties_19 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplandties_19/test/139.json with Separator: [Forall x1. (Exists x0. ((right(x0, x1)) \/ (tie(x0))))]
+CPU time: 7.521 sec
+
+=== Solving pplandties_2 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplandties_2/test/137.json with Separator: [Exists x1. (Exists x0. ((fork(x1)) \/ (within(x0, x1))))]
+CPU time: 4.031 sec
+
+=== Solving pplandties_20 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplandties_20/test/139.json with Separator: [Exists x1. (Forall x0. ((right(x1, x0)) \/ (tie(x1))))]
+CPU time: 3.339 sec
+
+=== Solving pplandties_3 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplandties_3/test/137.json with Separator: [Exists x1. (Exists x0. ((fork(x1)) \/ (within(x0, x1))))]
+CPU time: 3.678 sec
+
+=== Solving pplandties_4 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplandties_4/test/143.json with Separator: [Exists x1. (Exists x0. ((bottle(x0)) \/ (within(x0, x1))))]
+CPU time: 23.054 sec
+
+=== Solving pplandties_5 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplandties_5/test/143.json with Separator: [Exists x1. (Exists x0. ((within(x0, x1)) \/ (within(x1, x0))))]
+CPU time: 5.206 sec
+
+=== Solving pplandties_6 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplandties_6/test/139.json with Separator: [Exists x1. (Forall x0. ((right(x1, x0)) \/ (tie(x1))))]
+CPU time: 9.862 sec
+
+=== Solving pplandties_7 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplandties_7/test/143.json with Separator: [Exists x1. (Exists x0. ((bottle(x0)) \/ (within(x1, x0))))]
+CPU time: 4.827 sec
+
+=== Solving pplandties_8 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplandties_8/test/145.json with Separator: [Exists x1. (Forall x0. ((tie(x1)) \/ (within(x0, x1))))]
+CPU time: 1.902 sec
+
+=== Solving pplandties_9 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplandties_9/test/140.json with Separator: [Exists x1. (Forall x0. ((right(x1, x0)) \/ (tie(x1))))]
+CPU time: 2.609 sec
+
+=== Solving pplwearingties_1 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplwearingties_1/test/152.json with Separator: [Forall x1. (Exists x0. ((right(x1, x0)) \/ (tie(x0))))]
+CPU time: 29.371 sec
+
+=== Solving pplwearingties_10 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplwearingties_10/test/152.json with Separator: [Exists x1. (Forall x0. ((left(x0, x1)) \/ (tie(x1))))]
+CPU time: 53.903 sec
+
+=== Solving pplwearingties_11 ===
+TIMEOUT: 060 sec
+
+=== Solving pplwearingties_12 ===
+TIMEOUT: 060 sec
+
+=== Solving pplwearingties_13 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplwearingties_13/test/152.json with Separator: [Exists x1. (Exists x0. ((tie(x1)) /\ (within(x1, x0))))]
+CPU time: 44.466 sec
+
+=== Solving pplwearingties_14 ===
+TIMEOUT: 060 sec
+
+=== Solving pplwearingties_15 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplwearingties_15/test/152.json with Separator: [Exists x1. (Forall x0. ((left(x0, x1)) \/ (tie(x1))))]
+CPU time: 28.093 sec
+
+=== Solving pplwearingties_16 ===
+TIMEOUT: 060 sec
+
+=== Solving pplwearingties_17 ===
+TIMEOUT: 060 sec
+
+=== Solving pplwearingties_18 ===
+TIMEOUT: 060 sec
+
+=== Solving pplwearingties_19 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplwearingties_19/test/152.json with Separator: [Forall x1. (Exists x0. ((person(x1)) \/ (right(x1, x0))))]
+CPU time: 23.445 sec
+
+=== Solving pplwearingties_2 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplwearingties_2/test/152.json with Separator: [Exists x1. (Forall x0. ((right(x1, x0)) \/ (tie(x1))))]
+CPU time: 66.793 sec
+
+=== Solving pplwearingties_20 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplwearingties_20/test/152.json with Separator: [Forall x1. (Exists x0. ((right(x1, x0)) \/ (tie(x0))))]
+CPU time: 50.129 sec
+
+=== Solving pplwearingties_3 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplwearingties_3/test/152.json with Separator: [Exists x1. (Exists x0. ((tie(x1)) /\ (within(x1, x0))))]
+CPU time: 66.822 sec
+
+=== Solving pplwearingties_4 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplwearingties_4/test/152.json with Separator: [Exists x1. (Exists x0. ((right(x1, x0)) /\ (tie(x1))))]
+CPU time: 61.872 sec
+
+=== Solving pplwearingties_5 ===
+TIMEOUT: 060 sec
+
+=== Solving pplwearingties_6 ===
+TIMEOUT: 060 sec
+
+=== Solving pplwearingties_7 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplwearingties_7/test/152.json with Separator: [Forall x1. (Exists x0. ((person(x1)) \/ (right(x1, x0))))]
+CPU time: 32.940 sec
+
+=== Solving pplwearingties_8 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/pplwearingties_8/test/152.json with Separator: [Exists x1. (Forall x0. ((right(x1, x0)) \/ (tie(x1))))]
+CPU time: 84.675 sec
+
+=== Solving pplwearingties_9 ===
+TIMEOUT: 060 sec
+
+=== Solving sleeping_1 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/sleeping_1/test/177.json with Separator: [Exists x1. (Forall x0. ((not(left(x0, x1))) /\ (not(within(x0, x1)))))]
+CPU time: 12.747 sec
+
+=== Solving sleeping_10 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/sleeping_10/test/173.json with Separator: [Exists x1. (Exists x0. ((person(x1)) \/ (pottedplant(x0))))]
+CPU time: 4.815 sec
+
+=== Solving sleeping_11 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/sleeping_11/test/174.json with Separator: [Exists x1. (Forall x0. ((person(x1)) \/ (right(x1, x0))))]
+CPU time: 31.318 sec
+
+=== Solving sleeping_12 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/sleeping_12/test/171.json with Separator: [Exists x1. (Forall x0. ((bench(x0)) \/ (right(x1, x0))))]
+CPU time: 9.483 sec
+
+=== Solving sleeping_13 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/sleeping_13/test/177.json with Separator: [Exists x1. (Forall x0. ((bench(x0)) \/ (right(x1, x0))))]
+CPU time: 7.941 sec
+
+=== Solving sleeping_14 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/sleeping_14/test/172.json with Separator: [Forall x1. ((bench(x1)) \/ (person(x1)))]
+CPU time: 7.270 sec
+
+=== Solving sleeping_15 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/sleeping_15/test/173.json with Separator: [Exists x1. (Forall x0. ((left(x1, x0)) \/ (person(x1))))]
+CPU time: 4.338 sec
+
+=== Solving sleeping_16 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/sleeping_16/test/174.json with Separator: [Exists x1. (Forall x0. ((person(x1)) \/ (right(x1, x0))))]
+CPU time: 4.727 sec
+
+=== Solving sleeping_17 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/sleeping_17/test/171.json with Separator: [Exists x1. (Forall x0. ((not(left(x0, x1))) /\ (not(within(x0, x1)))))]
+CPU time: 17.328 sec
+
+=== Solving sleeping_18 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/sleeping_18/test/173.json with Separator: [Exists x1. (Forall x0. ((person(x1)) \/ (within(x1, x0))))]
+CPU time: 6.043 sec
+
+=== Solving sleeping_19 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/sleeping_19/test/175.json with Separator: [Forall x1. (Forall x0. ((not(left(x1, x0))) \/ (not(within(x1, x0)))))]
+CPU time: 8.286 sec
+
+=== Solving sleeping_2 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/sleeping_2/test/179.json with Separator: [Forall x1. (Exists x0. ((person(x0)) \/ (within(x0, x1))))]
+CPU time: 39.581 sec
+
+=== Solving sleeping_20 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/sleeping_20/test/177.json with Separator: [Forall x1. (Forall x0. ((person(x0)) \/ (not(within(x0, x1)))))]
+CPU time: 7.922 sec
+
+=== Solving sleeping_3 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/sleeping_3/test/174.json with Separator: [Exists x1. (Forall x0. ((person(x1)) \/ (right(x1, x0))))]
+CPU time: 29.628 sec
+
+=== Solving sleeping_4 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/sleeping_4/test/172.json with Separator: [Forall x1. (Forall x0. ((left(x0, x1)) \/ (not(within(x1, x0)))))]
+CPU time: 8.169 sec
+
+=== Solving sleeping_5 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/sleeping_5/test/171.json with Separator: [Exists x1. (Exists x0. ((right(x0, x1)) /\ (not(bench(x1)))))]
+CPU time: 1.560 sec
+
+=== Solving sleeping_6 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/sleeping_6/test/172.json with Separator: [Forall x1. ((bench(x1)) \/ (person(x1)))]
+CPU time: 10.445 sec
+
+=== Solving sleeping_7 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/sleeping_7/test/171.json with Separator: [Exists x1. (Forall x0. ((bench(x0)) \/ (right(x1, x0))))]
+CPU time: 0.493 sec
+
+=== Solving sleeping_8 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/sleeping_8/test/175.json with Separator: [Forall x1. (Forall x0. ((not(cat(x1))) /\ (not(pottedplant(x0)))))]
+CPU time: 17.833 sec
+
+=== Solving sleeping_9 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/sleeping_9/test/174.json with Separator: [Exists x1. (Forall x0. ((person(x1)) \/ (right(x1, x0))))]
+CPU time: 3.803 sec
+
+=== Solving umbrella_1 ===
+TIMEOUT: 060 sec
+
+=== Solving umbrella_10 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/umbrella_10/test/209.json with Separator: [Forall x1. (Exists x0. ((right(x1, x0)) \/ (umbrella(x0))))]
+CPU time: 75.419 sec
+
+=== Solving umbrella_11 ===
+TIMEOUT: 060 sec
+
+=== Solving umbrella_12 ===
+TIMEOUT: 060 sec
+
+=== Solving umbrella_13 ===
+TIMEOUT: 060 sec
+
+=== Solving umbrella_14 ===
+TIMEOUT: 060 sec
+
+=== Solving umbrella_15 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/umbrella_15/test/208.json with Separator: [Exists x1. (Exists x0. ((chair(x0)) \/ (handbag(x1))))]
+CPU time: 75.611 sec
+
+=== Solving umbrella_16 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/umbrella_16/test/209.json with Separator: [Forall x1. (Exists x0. ((right(x1, x0)) \/ (umbrella(x0))))]
+CPU time: 77.681 sec
+
+=== Solving umbrella_17 ===
+TIMEOUT: 060 sec
+
+=== Solving umbrella_18 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/umbrella_18/test/211.json with Separator: [Exists x1. (Exists x0. ((chair(x0)) \/ (handbag(x1))))]
+CPU time: 86.108 sec
+
+=== Solving umbrella_19 ===
+TIMEOUT: 060 sec
+
+=== Solving umbrella_2 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/umbrella_2/test/208.json with Separator: [Exists x1. (Forall x0. ((umbrella(x1)) \/ (within(x1, x0))))]
+CPU time: 83.444 sec
+
+=== Solving umbrella_20 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/umbrella_20/test/209.json with Separator: [Forall x1. (Exists x0. ((right(x1, x0)) \/ (umbrella(x0))))]
+CPU time: 74.406 sec
+
+=== Solving umbrella_3 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/umbrella_3/test/209.json with Separator: [Forall x1. (Exists x0. ((right(x1, x0)) \/ (umbrella(x0))))]
+CPU time: 76.858 sec
+
+=== Solving umbrella_4 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/umbrella_4/test/209.json with Separator: [Forall x1. (Exists x0. ((right(x1, x0)) \/ (umbrella(x0))))]
+CPU time: 82.423 sec
+
+=== Solving umbrella_5 ===
+TIMEOUT: 060 sec
+
+=== Solving umbrella_6 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/umbrella_6/test/211.json with Separator: [Forall x1. (Exists x0. ((car(x0)) \/ (not(person(x1)))))]
+CPU time: 81.598 sec
+
+=== Solving umbrella_7 ===
+TIMEOUT: 060 sec
+
+=== Solving umbrella_8 ===
+=== FOUND SEPARATOR ===
+Image: /home/user/repos/work/tmp/yolo_ir/umbrella_8/test/208.json with Separator: [Exists x1. (Exists x0. ((chair(x0)) \/ (handbag(x1))))]
+CPU time: 74.889 sec
+
+=== Solving umbrella_9 ===
+TIMEOUT: 060 sec
