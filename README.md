@@ -8,7 +8,6 @@ Supplementary material for submission to ICML 2021.
 ```plaintext
 .
 ├── bottom_up_solver
-├── clevr-irs
 ├── clevr-sample.png
 ├── data
 ├── README.md
